@@ -4,14 +4,15 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of lbhe is to ...
+The goal of lbhe is to provide Health Economics evaluation utilities,
+mainly for personal use.
 
 ## Installation
 
 You can install the development version of lbhe like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+devtools::install_github("lbraglia/lbhe")
 ```
 
 ## Example
